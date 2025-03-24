@@ -7,7 +7,7 @@ A RESTful API for a ride-sharing application built using Django Rest Framework (
 - Creating a ride request, viewing a ride's details, and listing all rides.
 - Updating the status of a ride from 'requested' to 'matched', 'in progress', 'completed' or 'cancelled'.
 - Updating the current location of the ride.
-- View nearby rides to their desired destinations that are within a 1km proximity of their location
+- View nearby drivers that are within a 1km proximity of their location
 
 ## Technologies Used
 - Python
@@ -20,7 +20,7 @@ A RESTful API for a ride-sharing application built using Django Rest Framework (
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/nimithaka/ride-sharing-api.git
+git clone git@github.com:nimithaka/ride-sharing-api.git
 cd ride-sharing-api
 ```
 
